@@ -1,8 +1,10 @@
 # Resume
 
-## Summary
+## Objective
 
-Fun and passionate developer maintaining a well rounded set of development skills. Versed in modern web development (including mobile) and becoming proficient in native iOS development. Primarily I have worked in the automotive industry (General Motors & VolksWagen): from PHP web-service implementation to transforming dated desktop (& IE only) websites into modern mobile ready "apps". 
+Fun and passionate developer maintaining a well rounded set of development skills. 
+
+Versed in modern web development (including mobile & web services) and seeking to become proficient in native iOS/Android development. 
 
 Driven, outspoken, and able to communicate superbly.
     
