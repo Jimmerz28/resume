@@ -65,7 +65,8 @@ Interacted daily with customers to answer questions, provide assistance as well 
 
 ## Education 
 
-### Bowling Green State University, Bowling Green, Ohio (August 2003 - December 2008)
+### Bowling Green State University
+**Bowling Green, Ohio, USA** (August 2003 - December 2008)
 
 * Bachelor of Science, Computer Science
 * Bachelor of Arts, Philosophy
@@ -76,10 +77,10 @@ Interacted daily with customers to answer questions, provide assistance as well 
 * PHP 5.3.0+, C++, Objective-C, HTML 5, CSS 3, JavaScript, XML, JSON
 
 ### Frameworks
-* Compass, SASS, phpUnit 1.7, phpDocumentor 2.0, jQuery, jQuery Mobile, Slim, docco, Grunt, Gulp, npm, NodeJS
+* Compass, SASS, phpUnit 1.7, phpDocumentor 2.0, jQuery, jQuery Mobile, Slim, docco, Grunt, Gulp
 
 ### Software
-* Photoshop, GIMP, InkScape, Vagrant, git, svn, POEdit, Jira
+* Photoshop, GIMP, InkScape, Vagrant, git, svn, POEdit, Jira, npm, NodeJS
 
 ### Spoken Language
 
